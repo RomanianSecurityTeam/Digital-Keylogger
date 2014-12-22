@@ -1,0 +1,98 @@
+Line 49: Class DigitalKeylogger3.ButtonXP of control ButtonXP14 was not a loaded control class.
+Line 72: Class DigitalKeylogger3.ButtonXP of control ButtonXP13 was not a loaded control class.
+Line 95: Class DigitalKeylogger3.ButtonXP of control ButtonXP12 was not a loaded control class.
+Line 118: Class DigitalKeylogger3.ButtonXP of control ButtonXP11 was not a loaded control class.
+Line 141: Class DigitalKeylogger3.ButtonXP of control ButtonXP10 was not a loaded control class.
+Line 164: Class DigitalKeylogger3.ButtonXP of control ButtonXP9 was not a loaded control class.
+Line 187: Class DigitalKeylogger3.ButtonXP of control ButtonXP8 was not a loaded control class.
+Line 210: Class DigitalKeylogger3.ButtonXP of control ButtonXP7 was not a loaded control class.
+Line 233: Class DigitalKeylogger3.ButtonXP of control ButtonXP6 was not a loaded control class.
+Line 256: Class DigitalKeylogger3.ButtonXP of control ButtonXP5 was not a loaded control class.
+Line 279: Class DigitalKeylogger3.ButtonXP of control ButtonXP4 was not a loaded control class.
+Line 302: Class DigitalKeylogger3.ButtonXP of control ButtonXP3 was not a loaded control class.
+Line 325: Class DigitalKeylogger3.ButtonXP of control ButtonXP2 was not a loaded control class.
+Line 348: Class DigitalKeylogger3.ButtonXP of control ButtonXP1 was not a loaded control class.
+Line 55: The property name _ExtentX in ButtonXP14 is invalid.
+Line 56: The property name _ExtentY in ButtonXP14 is invalid.
+Line 57: The property name Caption in ButtonXP14 is invalid.
+Line 58: The property name ButtonStyle in ButtonXP14 is invalid.
+Line 59: The property name OriginalPicSizeW in ButtonXP14 is invalid.
+Line 60: The property name OriginalPicSizeH in ButtonXP14 is invalid.
+Line 78: The property name _ExtentX in ButtonXP13 is invalid.
+Line 79: The property name _ExtentY in ButtonXP13 is invalid.
+Line 80: The property name Caption in ButtonXP13 is invalid.
+Line 81: The property name ButtonStyle in ButtonXP13 is invalid.
+Line 82: The property name OriginalPicSizeW in ButtonXP13 is invalid.
+Line 83: The property name OriginalPicSizeH in ButtonXP13 is invalid.
+Line 101: The property name _ExtentX in ButtonXP12 is invalid.
+Line 102: The property name _ExtentY in ButtonXP12 is invalid.
+Line 103: The property name Caption in ButtonXP12 is invalid.
+Line 104: The property name ButtonStyle in ButtonXP12 is invalid.
+Line 105: The property name OriginalPicSizeW in ButtonXP12 is invalid.
+Line 106: The property name OriginalPicSizeH in ButtonXP12 is invalid.
+Line 124: The property name _ExtentX in ButtonXP11 is invalid.
+Line 125: The property name _ExtentY in ButtonXP11 is invalid.
+Line 126: The property name Caption in ButtonXP11 is invalid.
+Line 127: The property name ButtonStyle in ButtonXP11 is invalid.
+Line 128: The property name OriginalPicSizeW in ButtonXP11 is invalid.
+Line 129: The property name OriginalPicSizeH in ButtonXP11 is invalid.
+Line 147: The property name _ExtentX in ButtonXP10 is invalid.
+Line 148: The property name _ExtentY in ButtonXP10 is invalid.
+Line 149: The property name Caption in ButtonXP10 is invalid.
+Line 150: The property name ButtonStyle in ButtonXP10 is invalid.
+Line 151: The property name OriginalPicSizeW in ButtonXP10 is invalid.
+Line 152: The property name OriginalPicSizeH in ButtonXP10 is invalid.
+Line 170: The property name _ExtentX in ButtonXP9 is invalid.
+Line 171: The property name _ExtentY in ButtonXP9 is invalid.
+Line 172: The property name Caption in ButtonXP9 is invalid.
+Line 173: The property name ButtonStyle in ButtonXP9 is invalid.
+Line 174: The property name OriginalPicSizeW in ButtonXP9 is invalid.
+Line 175: The property name OriginalPicSizeH in ButtonXP9 is invalid.
+Line 193: The property name _ExtentX in ButtonXP8 is invalid.
+Line 194: The property name _ExtentY in ButtonXP8 is invalid.
+Line 195: The property name Caption in ButtonXP8 is invalid.
+Line 196: The property name ButtonStyle in ButtonXP8 is invalid.
+Line 197: The property name OriginalPicSizeW in ButtonXP8 is invalid.
+Line 198: The property name OriginalPicSizeH in ButtonXP8 is invalid.
+Line 216: The property name _ExtentX in ButtonXP7 is invalid.
+Line 217: The property name _ExtentY in ButtonXP7 is invalid.
+Line 218: The property name Caption in ButtonXP7 is invalid.
+Line 219: The property name ButtonStyle in ButtonXP7 is invalid.
+Line 220: The property name OriginalPicSizeW in ButtonXP7 is invalid.
+Line 221: The property name OriginalPicSizeH in ButtonXP7 is invalid.
+Line 239: The property name _ExtentX in ButtonXP6 is invalid.
+Line 240: The property name _ExtentY in ButtonXP6 is invalid.
+Line 241: The property name Caption in ButtonXP6 is invalid.
+Line 242: The property name ButtonStyle in ButtonXP6 is invalid.
+Line 243: The property name OriginalPicSizeW in ButtonXP6 is invalid.
+Line 244: The property name OriginalPicSizeH in ButtonXP6 is invalid.
+Line 262: The property name _ExtentX in ButtonXP5 is invalid.
+Line 263: The property name _ExtentY in ButtonXP5 is invalid.
+Line 264: The property name Caption in ButtonXP5 is invalid.
+Line 265: The property name ButtonStyle in ButtonXP5 is invalid.
+Line 266: The property name OriginalPicSizeW in ButtonXP5 is invalid.
+Line 267: The property name OriginalPicSizeH in ButtonXP5 is invalid.
+Line 285: The property name _ExtentX in ButtonXP4 is invalid.
+Line 286: The property name _ExtentY in ButtonXP4 is invalid.
+Line 287: The property name Caption in ButtonXP4 is invalid.
+Line 288: The property name ButtonStyle in ButtonXP4 is invalid.
+Line 289: The property name OriginalPicSizeW in ButtonXP4 is invalid.
+Line 290: The property name OriginalPicSizeH in ButtonXP4 is invalid.
+Line 308: The property name _ExtentX in ButtonXP3 is invalid.
+Line 309: The property name _ExtentY in ButtonXP3 is invalid.
+Line 310: The property name Caption in ButtonXP3 is invalid.
+Line 311: The property name ButtonStyle in ButtonXP3 is invalid.
+Line 312: The property name OriginalPicSizeW in ButtonXP3 is invalid.
+Line 313: The property name OriginalPicSizeH in ButtonXP3 is invalid.
+Line 331: The property name _ExtentX in ButtonXP2 is invalid.
+Line 332: The property name _ExtentY in ButtonXP2 is invalid.
+Line 333: The property name Caption in ButtonXP2 is invalid.
+Line 334: The property name ButtonStyle in ButtonXP2 is invalid.
+Line 335: The property name OriginalPicSizeW in ButtonXP2 is invalid.
+Line 336: The property name OriginalPicSizeH in ButtonXP2 is invalid.
+Line 354: The property name _ExtentX in ButtonXP1 is invalid.
+Line 355: The property name _ExtentY in ButtonXP1 is invalid.
+Line 356: The property name Caption in ButtonXP1 is invalid.
+Line 357: The property name ButtonStyle in ButtonXP1 is invalid.
+Line 358: The property name OriginalPicSizeW in ButtonXP1 is invalid.
+Line 359: The property name OriginalPicSizeH in ButtonXP1 is invalid.
